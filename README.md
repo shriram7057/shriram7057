@@ -4,7 +4,7 @@
 - 💻 Passionate about **Java**, **Advanced Java**, **C++**, **Python**, and **JavaScript** development.
 - 🌱 Currently exploring **web development** and **e-commerce solutions**.
 - 📍 Based in Pune, Maharashtra, India.
-- 📫 Reach me at: [your email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/shriram-lahane/)
+- 📫 Reach me at: [your email](mailto:your.email@example.com) 
 
 ---
 
