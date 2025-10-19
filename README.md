@@ -1,49 +1,111 @@
-# 👋 Hi there! I'm Shriram Lahane
+# 👋 Hi, I'm Shriram Lahane
 
-### 🔧 About Me
-- 💻 Passionate about **Java**, **Advanced Java**, **C++**, **Python**, and **JavaScript** development.
-- 🌱 Currently exploring **web development** and **e-commerce solutions**.
-- 📍 Based in Pune, Maharashtra, India.
-- 📫 Reach me at: [lahaneshriram2@gmail.com](mailto:lahaneshriram2@gmail.com) 
+Welcome to my GitHub profile! I am passionate about coding and have worked on various projects across different programming languages. Below is a curated list of my repositories.
 
 ---
 
-### 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-007396?style=for-the-badge&logo=&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Advanced Java](https://img.shields.io/badge/Advanced_Java-6DB33F?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)
+## 📂 Repositories
+
+### 1. [Coding-In-Advance-Java](https://github.com/shriram7057/Coding-In-Advance-Java)
+- **Language:** Java
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Coding-In-Advance-Java?style=flat-square)
+- **Description:** A collection of advanced Java coding exercises and projects.
+
+### 2. [Coding-in-Cpp](https://github.com/shriram7057/Coding-in-Cpp)
+- **Language:** C++
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Coding-in-Cpp?style=flat-square)
+- **Description:** A series of C++ coding challenges and solutions.
+
+### 3. [Coding-in-JAVA](https://github.com/shriram7057/Coding-in-JAVA)
+- **Language:** Java
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Coding-in-JAVA?style=flat-square)
+- **Description:** A repository containing Java coding exercises and projects.
+
+### 4. [Coding-in-JavaScript](https://github.com/shriram7057/Coding-in-JavaScript)
+- **Language:** JavaScript
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Coding-in-JavaScript?style=flat-square)
+- **Description:** A collection of JavaScript coding challenges and solutions.
+
+### 5. [Coding-in-Python](https://github.com/shriram7057/Coding-in-Python)
+- **Language:** Python
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Coding-in-Python?style=flat-square)
+- **Description:** A series of Python coding exercises and projects.
+
+### 6. [Online-Shopping-Web](https://github.com/shriram7057/Online-Shopping-Web)
+- **Language:** Java
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Online-Shopping-Web?style=flat-square)
+- **Description:** A web-based online shopping platform developed using Java.
+
+### 7. [SCOE-Internship-2023](https://github.com/shriram7057/SCOE-Internship-2023)
+- **Language:** Java
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/SCOE-Internship-2023?style=flat-square)
+- **Description:** Internship project repository for SCOE 2023.
+
+### 8. [Java-Projects](https://github.com/shriram7057/Java-Projects)
+- **Language:** Java
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Java-Projects?style=flat-square)
+- **Description:** A collection of various Java projects.
+
+### 9. [JavaScript-Projects](https://github.com/shriram7057/JavaScript-Projects)
+- **Language:** JavaScript
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/JavaScript-Projects?style=flat-square)
+- **Description:** A series of JavaScript projects.
+
+### 10. [Python-Projects](https://github.com/shriram7057/Python-Projects)
+- **Language:** Python
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Python-Projects?style=flat-square)
+- **Description:** A collection of Python projects.
+
+### 11. [Web-Development-Projects](https://github.com/shriram7057/Web-Development-Projects)
+- **Language:** HTML, CSS, JavaScript
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Web-Development-Projects?style=flat-square)
+- **Description:** A series of web development projects.
+
+### 12. [Data-Structures-and-Algorithms](https://github.com/shriram7057/Data-Structures-and-Algorithms)
+- **Language:** Java, C++, Python
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Data-Structures-and-Algorithms?style=flat-square)
+- **Description:** A collection of data structures and algorithms implementations.
+
+### 13. [Machine-Learning-Projects](https://github.com/shriram7057/Machine-Learning-Projects)
+- **Language:** Python
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Machine-Learning-Projects?style=flat-square)
+- **Description:** A series of machine learning projects.
+
+### 14. [JavaScript-Algorithms](https://github.com/shriram7057/JavaScript-Algorithms)
+- **Language:** JavaScript
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/JavaScript-Algorithms?style=flat-square)
+- **Description:** A collection of algorithms implemented in JavaScript.
+
+### 15. [Python-Algorithms](https://github.com/shriram7057/Python-Algorithms)
+- **Language:** Python
+- **Stars:** ![Stars](https://img.shields.io/github/stars/shriram7057/Python-Algorithms?style=flat-square)
+- **Description:** A series of algorithms implemented in Python.
 
 ---
 
-### 📈 GitHub Stats
-![Shriram's GitHub stats](https://github-readme-stats.vercel.app/api?username=shriram7057&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriram7057&layout=compact&theme=radical)
+## 🛠️ Technologies & Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-### 🌟 Pinned Projects
-- [Online-Shopping-Web](https://github.com/shriram7057/Online-Shopping-Web) – E-commerce web app using Java.
-- [Coding-In-Advance-Java](https://github.com/shriram7057/Coding-In-Advance-Java) – Advanced Java exercises.
-- [Coding-in-Cpp](https://github.com/shriram7057/Coding-in-Cpp) – C++ coding challenges & solutions.
-- [Coding-in-JAVA](https://github.com/shriram7057/Coding-in-JAVA) – Java exercises & solutions.
-- [Coding-in-JavaScript](https://github.com/shriram7057/Coding-in-JavaScript) – JavaScript coding exercises.
-- [Coding-in-Python](https://github.com/shriram7057/Coding-in-Python) – Python programming challenges.
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shriram7057&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-### 👀 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=shriram7057&color=blue)
+## 🤝 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shriram7057)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/shriram7057/)
 
 ---
 
-### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/shriram7057/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heyy_shree_01/)
-
-
+✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
