@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shriram Lahane
 
-Welcome to my GitHub profile! I am passionate about coding and have worked on various projects across different programming languages. Below is a curated list of my repositories.
+Welcome to my GitHub profile! I'm passionate about coding and have worked on various projects across different programming languages. Below is a curated list of my repositories.
 
 ---
 
