@@ -53,7 +53,6 @@ I regularly solve **LeetCode** problems and love working on **Java**, **C++**, *
 ### 🏗️ Advanced Java
 - [Coding-In-Advance-Java](https://github.com/shriram7057/Coding-In-Advance-Java) – JDBC, Servlets, JSP, and advanced concepts.  
 - [Online-Shopping-Web](https://github.com/shriram7057/Online-Shopping-Web) – Full-stack Java web app using Servlets & JSP.  
-- [SCOE-Internship-2023](https://github.com/shriram7057/SCOE-Internship-2023) – College internship project in Java.
 
 ---
 
