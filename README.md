@@ -65,7 +65,7 @@ I regularly solve **LeetCode** problems and love working on **Java**, **C++**, *
 
 ### 🐍 Python
 - [Coding-in-Python](https://github.com/shriram7057/Coding-in-Python) – Python programming basics & practice problems.  
-- [Python-Projects]((https://github.com/shriram7057/Projects_Collection_In_Python)) – Fun automation & data analysis projects.  
+- [Python-Projects](https://github.com/shriram7057/Projects_Collection_In_Python) – Fun automation & data analysis projects.  
 - [Python-Algorithms](https://github.com/shriram7057/Python-Algorithms) – Algorithmic problems solved using Python.  
 - [Machine-Learning-Projects](https://github.com/shriram7057/Machine-Learning-Projects) – ML models & AI projects.
 
