@@ -89,6 +89,8 @@ I regularly solve **LeetCode** problems and love working on **Java**, **C++**, *
   <a href="https://github.com/shriram7057"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shriram-lahane/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/shriram7057/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://instagram.com/heyy_shree_01/"><img src="https://img.shields.io/badge/instagram-FFA116?style=for-the-badge&logo=instagram&logoColor=black" /></a>
+
 </p>
 
 ---
