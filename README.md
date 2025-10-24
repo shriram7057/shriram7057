@@ -8,22 +8,6 @@
 
 </div>
 
----
-
-## 🌟 About Me
-
-```javascript
-const shriram = {
-    role: "Full-Stack Developer",
-    languages: ["C", "C++", "Java", "JavaScript", "Python", "PHP"],
-    interests: ["Web Development", "Machine Learning", "DSA", "Problem Solving"],
-    currentlyLearning: "Advanced Java & System Design",
-    funFact: "I solve LeetCode problems daily! 💻"
-};
-```
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
