@@ -62,41 +62,6 @@
 
 ---
 
-## 🏆 LeetCode Achievements
-
-<div align="center">
-
-### ⭐ Top 100 Liked Problems Badge
-<img src="LeetCode%20Top%20100%20Liked%20Badge.png" width="400" />
-
-### 📘 SQL 50 Badge
-<img src="LeetCode%20SQL%2050%20Badge.png" width="400" />
-
-### 🎯 LeetCode 75 Badge
-<img src="LeetCode%2075%20Badge.png" width="400" />
-
-### 🐼 Introduction to Pandas Badge
-<img src="LeetCode%20Introduction%20to%20Pandas.png" width="400" />
-
-### 🔍 Algorithm Deconstructor Badge
-<img src="LeetCode%20Algorithm%20Deconstructor%20Badge!.png" width="400" />
-
-### 🗺️ LeetCode Quest Progress
-<img src="LeetCode%20Quest%20Main.png" width="500" />
-
-### 🧭 Data Navigator Badge
-<img src="LeetCode%20Data%20Navigator%20Badge%203.png" width="400" />
-
-### 🔢 Mathematical Insight Badge
-<img src="Leetcode%20Mathematical%20Insight%20Badge%202.png" width="400" />
-
-### 🏁 Quest Category Completion
-<img src="Leetcode%20Quest%201.png" width="500" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 <div align="center">
 
