@@ -63,9 +63,7 @@
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Mathematical%20Insight%20Badge!.gif" width="150"/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Data%20Navigator%20Badge!.gif" width="150"/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Algorithm%20Deconstructor%20Badge!.gif" width="150"/>
-
 <br/><br/>
-
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Introduction%20to%20Pandas!.gif" width="150"/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/LeetCode%2075!.gif" width="150"/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/SQL%2050!.gif" width="150"/>
