@@ -72,7 +72,8 @@
 <img src="assets/LeetCode 75!.gif" width="150"/>
 <img src="assets/SQL 50!.gif" width="150"/>
 <img src="assets/Top 100 Liked!.gif" width="150"/>
-<img src="assets/Top Interview 150!.gif" width="150"/>
+<img src="attachment:/mnt/data/Top Interview 150!.gif" width="150"/>
+
 
 </div>
 
