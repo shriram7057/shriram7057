@@ -70,7 +70,8 @@
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/LeetCode%2075!.gif" width="150"/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/SQL%2050!.gif" width="150"/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top%20100%20Liked!.gif" width="150"/>
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top%20Interview%20150!.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top_Interview_150.gif" width="150"/>
+
 
 </div>
 
