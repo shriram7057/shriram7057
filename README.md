@@ -55,25 +55,22 @@
 
 ---
 
-# 🏆 LeetCode Achievements
+## 🏆 LeetCode Achievements
 
 <div align="center">
 
-<!-- Replace the paths after uploading GIFs to your repo -->
+<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Architecture%20Builder%20Badge!.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Mathematical%20Insight%20Badge!.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Data%20Navigator%20Badge!.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Algorithm%20Deconstructor%20Badge!.gif" width="150"/>
 
-<img src="assets/Architecture Builder Badge!.gif" width="150"/>
-<img src="assets/Mathematical Insight Badge!.gif" width="150"/>
-<img src="assets/Data Navigator Badge!.gif" width="150"/>
-<img src="assets/Algorithm Deconstructor Badge!.gif" width="150"/>
+<br/><br/>
 
-<br><br>
-
-<img src="assets/Introduction to Pandas!.gif" width="150"/>
-<img src="assets/LeetCode 75!.gif" width="150"/>
-<img src="assets/SQL 50!.gif" width="150"/>
-<img src="assets/Top 100 Liked!.gif" width="150"/>
-<img src="attachment:/mnt/data/Top Interview 150!.gif" width="150"/>
-
+<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Introduction%20to%20Pandas!.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/LeetCode%2075!.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/SQL%2050!.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top%20100%20Liked!.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top%20Interview%20150!.gif" width="150"/>
 
 </div>
 
