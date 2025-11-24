@@ -11,7 +11,6 @@
 ---
 
 ## 🛠️ Tech Arsenal
-
 <div align="center">
 
 ### 💬 Languages
@@ -22,7 +21,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
 
 ---
 
@@ -57,6 +55,29 @@
 
 ---
 
+# 🏆 LeetCode Achievements
+
+<div align="center">
+
+<!-- Replace the paths after uploading GIFs to your repo -->
+
+<img src="assets/Architecture Builder Badge!.gif" width="150"/>
+<img src="assets/Mathematical Insight Badge!.gif" width="150"/>
+<img src="assets/Data Navigator Badge!.gif" width="150"/>
+<img src="assets/Algorithm Deconstructor Badge!.gif" width="150"/>
+
+<br><br>
+
+<img src="assets/Introduction to Pandas!.gif" width="150"/>
+<img src="assets/LeetCode 75!.gif" width="150"/>
+<img src="assets/SQL 50!.gif" width="150"/>
+<img src="assets/Top 100 Liked!.gif" width="150"/>
+<img src="assets/Top Interview 150!.gif" width="150"/>
+
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 <div align="center">
 
@@ -68,8 +89,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
 
 </div>
-
-
 
 ### ⭐ **Thanks for visiting!**
 **Keep Learning | Keep Coding | Keep Building** 🚀  
