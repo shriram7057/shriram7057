@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech 
 <div align="center">
 
 ### 💬 Languages
