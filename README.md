@@ -66,6 +66,22 @@
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/SQL%2050!.gif" width="150"/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top%20100%20Liked!.gif" width="150"/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top_Interview_150.gif" width="150"/>
+<br><br>
+<div align="center">
+
+<a href="https://leetcode.com/u/shriram_lahane/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+       alt="LeetCode Logo" width="45" style="vertical-align:middle;">
+</a>
+
+<h3>
+  <a href="https://leetcode.com/u/shriram_lahane/" target="_blank" style="text-decoration:none;">
+    Visit my LeetCode Profile
+  </a>
+</h3>
+
+</div>
+
 
 
 </div>
