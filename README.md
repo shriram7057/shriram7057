@@ -55,12 +55,28 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Architecture%20Builder%20Badge!.gif" width="150"/>
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Mathematical%20Insight%20Badge!.gif" width="150"/>
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Data%20Navigator%20Badge!.gif" width="150"/>
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Algorithm%20Deconstructor%20Badge!.gif" width="150"/>
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/leetcode_50days.gif" width="150" />
+<a href="https://example.com" target="https://leetcode.com/medal/?showImg=0&id=8684461&isLevel=false">
+  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Architecture%20Builder%20Badge!.gif" width="150"/>
+</a>
+
+<a href="https://example.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Mathematical%20Insight%20Badge!.gif" width="150"/>
+</a>
+
+<a href="https://example.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Data%20Navigator%20Badge!.gif" width="150"/>
+</a>
+
+<a href="https://example.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Algorithm%20Deconstructor%20Badge!.gif" width="150"/>
+</a>
+
+<a href="https://example.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/leetcode_50days.gif" width="150"/>
+</a>
+
 <br/><br/>
+<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/leetcode_50days.gif" width="150"/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Introduction%20to%20Pandas!.gif" width="150"/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/LeetCode%2075!.gif" width="150"/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/SQL%2050!.gif" width="150"/>
