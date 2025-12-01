@@ -52,14 +52,12 @@
 ---
 
 ## 🏆 LeetCode Achievements
-<div style="display: flex; gap: 20px; margin-left: 200px;">
+<div style="display: flex; gap: 20px; justify-content: center;">
   <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Architecture%20Builder%20Badge!.gif" width="150"/>
   <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Mathematical%20Insight%20Badge!.gif" width="150"/>
   <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Data%20Navigator%20Badge!.gif" width="150"/>
   <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Algorithm%20Deconstructor%20Badge!.gif" width="150"/>
 </div>
-
-
 
 <br/><br/>
 <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/leetcode_50days.gif" width="150"/>
