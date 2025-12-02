@@ -50,43 +50,103 @@
 </div>
 
 ---
+## 🏆 <strong>LeetCode Achievements</strong>
+<br>
 
-## 🏆 LeetCode Achievements
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Architecture%20Builder%20Badge!.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Mathematical%20Insight%20Badge!.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Data%20Navigator%20Badge!.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Algorithm%20Deconstructor%20Badge!.gif" width="150"/>
+<!-- Competition Medals -->
+<div style="
+  border: 1px solid #e5e5e5; 
+  padding: 20px; 
+  border-radius: 14px; 
+  background: #ffffff;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08); 
+  margin-bottom: 30px;">
+  
+  <strong style="font-size:20px;">🏅 Competition Medals</strong>
+
+  <div style="display: flex; gap: 20px; justify-content: center; margin-top:15px;">
+    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Architecture%20Builder%20Badge!.gif" width="150"/>
+    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Mathematical%20Insight%20Badge!.gif" width="150"/>
+    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Data%20Navigator%20Badge!.gif" width="150"/>
+    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Algorithm%20Deconstructor%20Badge!.gif" width="150"/>
+  </div>
 </div>
 
-<br/><br/>
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/leetcode_50days.gif" width="150"/>
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Introduction%20to%20Pandas!.gif" width="150"/>
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/LeetCode%2075!.gif" width="150"/>
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/SQL%2050!.gif" width="150"/>
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top%20100%20Liked!.gif" width="150"/>
-<img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top_Interview_150.gif" width="150"/>
-<br><br>
-<div align="center">
 
-<a href="https://leetcode.com/u/shriram_lahane/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-       alt="LeetCode Logo" width="45" style="vertical-align:middle;">
-</a>
+<!-- Annual Medals -->
+<div style="
+  border: 1px solid #e5e5e5; 
+  padding: 20px; 
+  border-radius: 14px; 
+  background: #ffffff;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08); 
+  margin-bottom: 30px;  
+  text-align:center;">
+  
+  <strong style="font-size:20px;">🏅 Annual Medals</strong>
 
-<h3>
-  <a href="https://leetcode.com/u/shriram_lahane/" target="_blank" style="text-decoration:none;">
-    Visit my LeetCode Profile
+  <div style="margin-top:15px;">
+    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/leetcode_50days.gif" width="150"/>
+  </div>
+</div>
+
+
+<!-- Study Plan Medals -->
+<div style="
+  border: 1px solid #e5e5e5; 
+  padding: 20px; 
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  margin-bottom: 30px;">
+  
+  <strong style="font-size:20px;">🏅 Study Plan Medals</strong>
+
+  <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin-top:15px;">
+    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Introduction%20to%20Pandas!.gif" width="150"/>
+    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/LeetCode%2075!.gif" width="150"/>
+    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/SQL%2050!.gif" width="150"/>
+    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top%20100%20Liked!.gif" width="150"/>
+    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top_Interview_150.gif" width="150"/>
+  </div>
+</div>
+
+
+<!-- Profile Section -->
+<div style="
+  border: 1px solid #e5e5e5; 
+  padding: 20px; 
+  border-radius: 14px; 
+  background: #ffffff;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08); 
+  text-align:center;">
+  
+  <a href="https://leetcode.com/u/shriram_lahane/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+         alt="LeetCode Logo" width="45" style="vertical-align:middle;">
+  </a>
+
+<h3 style="margin-top:15px; text-align:center;">
+  <a href="https://leetcode.com/u/shriram_lahane/" target="_blank"
+     style="
+        display: inline-block;
+        padding: 10px 22px;
+        background: #FFA116;                 /* LeetCode orange */
+        color: white;
+        font-weight: bold;
+        border-radius: 8px;
+        text-decoration: none;
+        font-size: 16px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+        transition: all 0.25s ease;
+     "
+     onmouseover="this.style.background='#ff8a00'; this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 14px rgba(0,0,0,0.22)'"
+     onmouseout="this.style.background='#FFA116'; this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.15)'"
+  >
+    Visit My LeetCode Profile
   </a>
 </h3>
 
-</div>
-
-
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 <div align="center">
