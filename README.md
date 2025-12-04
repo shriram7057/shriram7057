@@ -132,7 +132,7 @@
     🔥 Visit My LeetCode Profile
   </a>
 </div>
-
+<br></br>
 <div style="
   display: flex;
   flex-direction: row;
@@ -149,20 +149,38 @@
   <img src="GitHub-pair-extraordinaire.png" width="120" style="border-radius:12px;" />
 
 </div>
+<br>
 
+<h2 align="center">🤝 Let's Connect!</h2>
 
+<div align="center" style="margin-top: 15px;">
 
-## 🤝 Let's Connect!
-<div align="center">
+  <a href="https://github.com/shriram7057">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shriram_lahane/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pvy.shree_01/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shriram01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
+  <a href="https://www.linkedin.com/in/shriram-lahane/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://leetcode.com/u/shriram_lahane/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+
+  <a href="https://instagram.com/pvy.shree_01/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/shriram01">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+
+  <a href="mailto:lahaneshriram2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
 </div>
+
 
 ### ⭐ **Thanks for visiting!**
 **Keep Learning | Keep Coding | Keep Building** 🚀  
