@@ -132,7 +132,10 @@
     🔥 Visit My LeetCode Profile
   </a>
 </div>
+<br></b>
+🏆 <strong>Git-Hub Achievements</strong>
 <br></br>
+<br>
 <div style="
   display: flex;
   flex-direction: row;
