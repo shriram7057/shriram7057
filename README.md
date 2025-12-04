@@ -112,7 +112,7 @@
 </div>
 
 
-<!-- Premium Glowing Profile Button -->
+ Premium Glowing Profile Button 
 <div style="text-align:center; margin:60px 0 30px 0;">
   <a href="https://leetcode.com/u/shriram_lahane/" target="_blank"
      style="
@@ -131,6 +131,60 @@
 
     🔥 Visit My LeetCode Profile
   </a>
+</div>
+
+## 🏅 GitHub Achievement Badges
+
+<div style="
+  display:flex; 
+  justify-content:flex-start; 
+  align-items:center; 
+  gap:25px; 
+  margin: 20px 0;
+  flex-wrap:wrap;
+">
+
+<div style="display:flex; gap:20px; align-items:center;">
+
+  <!-- YOLO Badge -->
+  <img 
+    src="GitHub-YOLO.png" 
+    width="120"
+    style="border-radius:12px; transition:all 0.3s ease; cursor:pointer;"
+    onmouseover="this.style.transform='scale(1.10)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.18)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
+  />
+
+  <!-- Pull Shark Badge -->
+  <img 
+    src="GitHub-Pull%20Shark.png" 
+    width="120"
+    style="border-radius:12px; transition:all 0.3s ease; cursor:pointer;"
+    onmouseover="this.style.transform='scale(1.10)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.18)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
+  />
+
+</div>
+
+
+  <!-- Quickdraw Badge -->
+  <img 
+    src="GitHub-Quickdraw.png" 
+    width="120"
+    style="border-radius:12px; transition:all 0.3s ease; cursor:pointer;"
+    onmouseover="this.style.transform='scale(1.10)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.18)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
+  />
+
+  <!-- Pair Extraordinaire Badge -->
+  <img 
+    src="GitHub-pair-extraordinaire.png" 
+    width="120"
+    style="border-radius:12px; transition:all 0.3s ease; cursor:pointer;"
+    onmouseover="this.style.transform='scale(1.10)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.18)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
+  />
+
 </div>
 
 
