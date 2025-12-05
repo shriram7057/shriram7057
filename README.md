@@ -64,12 +64,14 @@
   
   <strong style="font-size:22px;">🏅 Competition Medals</strong>
 
-  <div style="display: flex; gap: 20px; justify-content: center; margin-top:20px;">
+<div style="display: flex; gap: 20px; justify-content: center; margin-top:20px; align-items: center;">
     <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Architecture%20Builder%20Badge!.gif" width="150"/>
     <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Mathematical%20Insight%20Badge!.gif" width="150"/>
     <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Data%20Navigator%20Badge!.gif" width="150"/>
     <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Algorithm%20Deconstructor%20Badge!.gif" width="150"/>
-  </div>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Daily%20coin.gif?raw=true" width="150" style="margin-top: 0;"/>
+</div>
+
 </div>
 
 
