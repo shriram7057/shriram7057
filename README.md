@@ -1,6 +1,6 @@
 <div align="left">
 
-# 👨‍💻 Hi there, I'm **Shriram Lahane** 
+# 👨‍💻 Hi there, I'm **Shriram** 
 
 ### 💡 Passionate Coder | Problem Solver | Full-Stack Web Developer
 
