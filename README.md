@@ -89,6 +89,8 @@
 
   <div style="margin-top:20px;">
     <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/leetcode_50days.gif" width="150"/>
+   <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20Coin.gif?raw=true" width="140" />
+
   </div>
 </div>
 
