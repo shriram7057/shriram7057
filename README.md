@@ -157,7 +157,7 @@
 
 </div>
 <br>
-🏆 <strong>GeeksForGeeks Achievements</strong>
+🏆 <strong>Geeks-For-Geeks Achievements</strong>
 <br><br>
 
 <div style="
