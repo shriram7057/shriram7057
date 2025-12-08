@@ -157,6 +157,29 @@
 
 </div>
 <br>
+🏆 <strong>GeeksForGeeks Achievements</strong>
+<br><br>
+
+<div style="
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+  margin: 20px 0;
+">
+
+  <div style="
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+  ">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/C++%20Gif.gif?raw=true" width="150">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Java%20GIF.gif?raw=true" width="150">
+  </div>
+
+</div>
 
 <h2 align="center">🤝 Let's Connect!</h2>
 
