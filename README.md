@@ -175,8 +175,8 @@
     justify-content: center;
     align-items: center;
   ">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/C++%20Gif.gif?raw=true" width="150">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Java%20GIF.gif?raw=true" width="150">
+    <img src="ttps://github.com/shriram7057/shriram7057/blob/main/C++%20Gif.gif?raw=true" width="150">
+    <img src="ttps://github.com/shriram7057/shriram7057/blob/main/Java%20GIF.gif?raw=true" width="150">
   </div>
 
 </div>
