@@ -194,11 +194,17 @@
 <a href="https://www.geeksforgeeks.org/certificate/feadd08e41568e595f8f1d2f9ecfa725" target="_blank">
     <img src="https://github.com/shriram7057/shriram7057/blob/main/Js.gif?raw=true" width="100">
 </a>
-<a href="https://www.geeksforgeeks.org/certificate/0ff165ff868b177360027e22e2a1de7c" target="_blank">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/DSA.gif?raw=true" width="200">
+<a href="https://www.geeksforgeeks.org/certificate/5beca0cf355c49b7f6d991fb2d553c00" target="_blank">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Django.png?raw=true" width="150">
+</a>
+<a href="https://www.geeksforgeeks.org/certificate/25078514cf8abdf43d495846de19264a" target="_blank">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/IOS%20Dev.gif?raw=true" width="150">
 </a>
 <a href="https://www.geeksforgeeks.org/certificate/187e810c657bc4af02d1357f41f4c575"_blank">
     <img src="https://github.com/shriram7057/shriram7057/blob/main/Next%20JS.jpg?raw=true" width="180">
+</a>
+<a href="https://www.geeksforgeeks.org/certificate/7e8a774a7122478c90750c77d0cf1e84"_blank">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Lyzr%20AI.png?raw=true" width="190">
 </a>
   </div>
 
