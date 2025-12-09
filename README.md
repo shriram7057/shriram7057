@@ -176,23 +176,23 @@
     align-items: center;
   ">
 <a href="https://www.geeksforgeeks.org/certificate/28c1351974b0e94503ef2c3163d9fabc" target="_blank">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/C.png?raw=true" width="150">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/C.png?raw=true" width="130">
 </a>
 
 <a href="https://github.com/shriram7057/shriram7057/blob/main/C++.png?raw=true" target="_blank">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/C++.png?raw=true" width="150">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/C++.png?raw=true" width="130">
 </a>
 
 <a href="https://media.geeksforgeeks.org/courses/certificates/b14bca951b43f3748828d9ac3cf950ed.pdf" target="_blank">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Java.gif?raw=true" width="120">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Java.gif?raw=true" width="100">
 </a>
 
 <a href="https://www.geeksforgeeks.org/certificate/a26bacb92e4bb567cd6978aa274ca890?utm_source=socials&utm_medium=cc_link" target="_blank">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Python.gif?raw=true" width="120">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Python.gif?raw=true" width="100">
 </a>
 
 <a href="https://www.geeksforgeeks.org/certificate/feadd08e41568e595f8f1d2f9ecfa725" target="_blank">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Js.gif?raw=true" width="120">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Js.gif?raw=true" width="100">
 </a>
 
   </div>
