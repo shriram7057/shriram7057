@@ -194,7 +194,12 @@
 <a href="https://www.geeksforgeeks.org/certificate/feadd08e41568e595f8f1d2f9ecfa725" target="_blank">
     <img src="https://github.com/shriram7057/shriram7057/blob/main/Js.gif?raw=true" width="100">
 </a>
-
+<a href="https://www.geeksforgeeks.org/certificate/0ff165ff868b177360027e22e2a1de7c" target="_blank">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/DSA.gif?raw=true" width="200">
+</a>
+<a href="https://www.geeksforgeeks.org/certificate/187e810c657bc4af02d1357f41f4c575"_blank">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Next%20JS.jpg?raw=true" width="180">
+</a>
   </div>
 
 </div>
