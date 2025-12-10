@@ -177,6 +177,7 @@
     justify-content: center;
     align-items: center;
   ">
+<img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20Coin.gif?raw=true" width="140" />
 <a href="https://www.geeksforgeeks.org/certificate/28c1351974b0e94503ef2c3163d9fabc" target="_blank">
     <img src="https://github.com/shriram7057/shriram7057/blob/main/C.png?raw=true" width="130">
 </a>
@@ -207,6 +208,9 @@
 </a>
 <a href="https://www.geeksforgeeks.org/certificate/7e8a774a7122478c90750c77d0cf1e84"_blank">
     <img src="https://github.com/shriram7057/shriram7057/blob/main/Lyzr%20AI.png?raw=true" width="190">
+</a>
+<a href="https://github.com/shriram7057/shriram7057/blob/main/160%20Daya%20Of%20DSA.png?raw=true">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/160%20Daya%20Of%20DSA.png?raw=true" width="190">
 </a>
   </div>
 
