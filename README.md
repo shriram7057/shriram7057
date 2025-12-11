@@ -1,7 +1,7 @@
  <div style="margin-top:0 px;">
 <img src="https://github.com/shriram7057/shriram7057/blob/main/GH%20Banner.gif?raw=true" width="550"/>
 
-# 👨‍💻I'm **Shriram** 
+#🥷 I'm **Shriram** 
 
 ### 💡 Passionate Coder 
 ### 💡  Problem Solver  
