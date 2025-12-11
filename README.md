@@ -111,10 +111,11 @@
 
   <div style="display:flex; flex-wrap:wrap; gap:25px; justify-content:center; margin-top:30px;">
     <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Introduction%20to%20Pandas!.gif" width="150"/>
-    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/LeetCode%2075!.gif" width="150"/>
     <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/SQL%2050!.gif" width="150"/>
     <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top%20100%20Liked!.gif" width="150"/>
     <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top_Interview_150.gif" width="150"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Leetcode%2030%20Days%20of%20PD.gif?raw=true" width="150"/>
+    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/LeetCode%2075!.gif" width="140"/>
   </div>
 </div>
 
