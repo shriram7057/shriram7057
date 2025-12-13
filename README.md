@@ -225,7 +225,7 @@
 <div align="center" style="margin-top: 15px;">
  
 <a href="https://www.linkedin.com/in/shriram-lahane/">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/linkedin%20logo%20icon.jpeg?raw=true" width="83">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/linkedin%20logo%20icon.jpeg?raw=true" width="70">
   </a>
  <a href="https://github.com/shriram7057">
     <img src="https://github.com/shriram7057/shriram7057/blob/main/GitHub%20icon.jpeg?raw=true"width="80">
