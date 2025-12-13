@@ -223,29 +223,24 @@
 <h2 align="center">🤝 Let's Connect!</h2>
 
 <div align="center" style="margin-top: 15px;">
-
-  <a href="https://github.com/shriram7057">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+ 
+<a href="https://www.linkedin.com/in/shriram-lahane/">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/linkedin%20logo%20icon.jpeg?raw=true" width="83">
   </a>
-
-  <a href="https://www.linkedin.com/in/shriram-lahane/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a href="https://leetcode.com/u/shriram_lahane/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+ <a href="https://github.com/shriram7057">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/GitHub%20icon.jpeg?raw=true"width="80">
   </a>
 
   <a href="https://instagram.com/pvy.shree_01/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/profile/shriram01">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/insta%20Icon.jpeg?raw=true" width="70">
   </a>
 
   <a href="mailto:lahaneshriram2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Mail%20icon.jpeg?raw=true" width="70">
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/shriram01">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%203d%20logo.png?raw=true" width="120">
   </a>
 
 </div>
