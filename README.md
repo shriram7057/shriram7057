@@ -188,6 +188,8 @@
     <img src="https://github.com/shriram7057/shriram7057/blob/main/C++.png?raw=true" width="130">
 </a>
 
+   <img src="https://github.com/shriram7057/shriram7057/blob/main/node%20js%20ani.gif?raw=true" width="110">
+</a>
 <a href="https://media.geeksforgeeks.org/courses/certificates/b14bca951b43f3748828d9ac3cf950ed.pdf" target="_blank">
     <img src="https://github.com/shriram7057/shriram7057/blob/main/Java.gif?raw=true" width="100">
 </a>
