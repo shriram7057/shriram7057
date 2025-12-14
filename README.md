@@ -50,6 +50,8 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
 </div>
 <h2 align="left">🤝 Let's Connect!</h2>
 
@@ -75,7 +77,6 @@
   </a>
 
 </div>
-
 
 ### ⭐ **Thanks for visiting!**
 **Keep Learning | Keep Coding | Keep Building** 🚀  
