@@ -51,6 +51,40 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+<h2 align="left">🤝 Let's Connect!</h2>
+
+<div align="left" style="margin-top: 15px;">
+ 
+<a href="https://www.linkedin.com/in/shriram-lahane/">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/linkedin%20logo%20icon.jpeg?raw=true" width="70">
+  </a>
+ <a href="https://github.com/shriram7057">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/GitHub%20icon.jpeg?raw=true"width="80">
+  </a>
+
+  <a href="https://instagram.com/pvy.shree_01/">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/insta%20Icon.jpeg?raw=true" width="70">
+  </a>
+
+  <a href="mailto:lahaneshriram2@gmail.com">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Mail%20icon.jpeg?raw=true" width="70">
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/shriram01">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%203d%20logo.png?raw=true" width="120">
+  </a>
+
+</div>
+
+
+### ⭐ **Thanks for visiting!**
+**Keep Learning | Keep Coding | Keep Building** 🚀  
+
+<br>
+
+[![Visit My Repositories](https://img.shields.io/badge/🚀_Visit_My_Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0D1117)](https://github.com/shriram7057?tab=repositories)
+
+</div>
 
 ---
 ## 🏆 <strong>LeetCode Achievements</strong>
@@ -220,32 +254,7 @@
 
 </div>
 
-<h2 align="center">🤝 Let's Connect!</h2>
-
-<div align="center" style="margin-top: 15px;">
- 
-<a href="https://www.linkedin.com/in/shriram-lahane/">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/linkedin%20logo%20icon.jpeg?raw=true" width="70">
-  </a>
- <a href="https://github.com/shriram7057">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/GitHub%20icon.jpeg?raw=true"width="80">
-  </a>
-
-  <a href="https://instagram.com/pvy.shree_01/">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/insta%20Icon.jpeg?raw=true" width="70">
-  </a>
-
-  <a href="mailto:lahaneshriram2@gmail.com">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Mail%20icon.jpeg?raw=true" width="70">
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/profile/shriram01">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%203d%20logo.png?raw=true" width="120">
-  </a>
-
-</div>
-
-
+<br></br>
 ### ⭐ **Thanks for visiting!**
 **Keep Learning | Keep Coding | Keep Building** 🚀  
 
