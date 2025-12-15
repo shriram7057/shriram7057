@@ -77,9 +77,11 @@
   </a>
 
 </div>
-
-### ⭐ **Thanks for visiting!**
-**Keep Learning | Keep Coding | Keep Building** 🚀  
+<br></br>
+### ⭐ Thanks for visiting!
+**Keep Learning | 
+Keep Coding | 
+Keep Building** 🚀  
 
 <br>
 
