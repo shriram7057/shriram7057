@@ -61,11 +61,11 @@
     <img src="https://github.com/shriram7057/shriram7057/blob/main/linkedin%20logo%20icon.jpeg?raw=true" width="70">
   </a>
  <a href="https://github.com/shriram7057">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/GitHub%20icon.jpeg?raw=true"width="79">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/GitHub%20icon.jpeg?raw=true"width="80">
   </a>
 
   <a href="https://instagram.com/pvy.shree_01/">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/insta%20Icon.jpeg?raw=true" width="70">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Insta%20Logo.jpeg?raw=true" width="70">
   </a>
 
   <a href="mailto:lahaneshriram2@gmail.com">
