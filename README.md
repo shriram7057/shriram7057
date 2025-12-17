@@ -154,7 +154,11 @@ Keep Building** 🚀
     <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Top_Interview_150.gif" width="150"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/Leetcode%2030%20Days%20of%20PD.gif?raw=true" width="150"/>
     <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/LeetCode%2075!.gif" width="140"/>
-   <img src="https://github.com/shriram7057/shriram7057/blob/ma…LeetCode%20Dynamic_Programming-Badge.gif?raw=true" width="140"/>
+   <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Dynamic%20Programming%20Badge%20GIF.gif?raw=true" width="140"/>
+   <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Graph_Theory%20Badge.gif?raw=true" width="140"/>
+   <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Binary_Search%20badge.gif?raw=true" width="140"/>
+   <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Programming_Skills%20Badge.gif?raw=true" width="140"/>
+
   </div>
 </div>
 
