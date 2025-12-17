@@ -53,9 +53,10 @@
 ---
 
 </div>
-<h2 align="left">🤝 Let's Connect!</h2>
-
+<h2 align="left"> <img src="https://github.com/shriram7057/shriram7057/blob/main/Follow%20me.gif?raw=true" width="170">
+ 
 <div align="left" style="margin-top: 15px;">
+🤝 Let's Connect!</h2>
  
 <a href="https://www.linkedin.com/in/shriram-lahane/">
     <img src="https://github.com/shriram7057/shriram7057/blob/main/linkedin%20logo%20icon.jpeg?raw=true" width="70">
