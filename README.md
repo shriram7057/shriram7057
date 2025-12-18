@@ -266,7 +266,7 @@ Keep Building** 🚀
 </div>
 
 <br></br>
-### ⭐ **Thanks for visiting!**
+
 **Keep Learning | Keep Coding | Keep Building** 🚀  
 
 <br>
