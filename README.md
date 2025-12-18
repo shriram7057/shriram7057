@@ -58,7 +58,7 @@
 <div align="left" style="margin-top: 15px;">
 🤝 Let's Connect!</h2>
  
-<a href="https://www.linkedin.com/in/shriram-lahane/">
+<a href="www.linkedin.com/in/shriram-lahane-12b692385">
     <img src="https://github.com/shriram7057/shriram7057/blob/main/linkedin%20logo%20icon.jpeg?raw=true" width="70">
   </a>
  <a href="https://github.com/shriram7057">
