@@ -274,3 +274,10 @@ Keep Building** 🚀
 [![Visit My Repositories](https://img.shields.io/badge/🚀_Visit_My_Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0D1117)](https://github.com/shriram7057?tab=repositories)
 
 </div>
+<div align="center">
+  <img 
+    src="https://github.com/shriram7057/shriram7057/blob/main/Thank%20You%20GitHub.gif?raw=true" 
+    width="680" 
+    alt="Thank You GitHub"
+  />
+</div>
