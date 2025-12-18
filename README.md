@@ -158,6 +158,8 @@ Keep Building** 🚀
    <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Graph_Theory%20Badge.gif?raw=true" width="140"/>
    <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Binary_Search%20badge.gif?raw=true" width="140"/>
    <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Programming_Skills%20Badge.gif?raw=true" width="140"/>
+   <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode-Premium_Algo_100.gif?raw=true" width="140"/>
+   <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode-Premium_SQL_50.gif?raw=true" width="140"/>
 
   </div>
 </div>
