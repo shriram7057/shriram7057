@@ -140,7 +140,7 @@ Keep Building** 🚀
 
   <a href="https://leetcode.com/rewind/2025/" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/shriram7057/shriram7057/refs/heads/main/LeetCode%20Rewind%202025.gif" 
+      src="LeetCode%20Rewind%202025%20Main.png?raw=true" 
       width="110"
     />
   </a>
