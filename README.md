@@ -130,12 +130,22 @@ Keep Building** 🚀
   
   <strong style="font-size:22px;">🏅 Annual Medals</strong>
 
-  <div style="margin-top:20px;">
-    <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/leetcode_50days.gif" width="150"/>
-   
+<div style="margin-top:20px;">
+  <a href="https://leetcode.com/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/leetcode_50days.gif" 
+      width="150"
+    />
+  </a>
 
-  </div>
+  <a href="https://leetcode.com/rewind/2025/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/shriram7057/shriram7057/refs/heads/main/LeetCode%20Rewind%202025.gif" 
+      width="110"
+    />
+  </a>
 </div>
+>
 
 
 <!-- Study Plan Medals -->
@@ -234,7 +244,6 @@ Keep Building** 🚀
 <a href="https://github.com/shriram7057/shriram7057/blob/main/C++.png?raw=true" target="_blank">
     <img src="https://github.com/shriram7057/shriram7057/blob/main/C++.png?raw=true" width="130">
 </a>
-
    <img src="https://github.com/shriram7057/shriram7057/blob/main/node%20js%20ani.gif?raw=true" width="110">
 </a>
 <a href="https://media.geeksforgeeks.org/courses/certificates/b14bca951b43f3748828d9ac3cf950ed.pdf" target="_blank">
