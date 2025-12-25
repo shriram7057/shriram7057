@@ -1,7 +1,7 @@
  <div align="center" style="margin-top:0 px;">
 <img src="https://github.com/shriram7057/shriram7057/blob/main/Black%20White%20and%20Yellow%20Modern%20Welcome%20Video.gif?raw=true" width="680"/>
 <br></br>
-#🥷 I'm **Shriram** 
+🥷 I'm Shriram
 
 ### 💡 Passionate Coder 
 ### 💡  Problem Solver  
@@ -79,10 +79,10 @@
 
 </div>
 <br></br>
-### ⭐ Thanks for visiting!
-**Keep Learning | 
+ ⭐ Thanks for visiting!
+Keep Learning | 
 Keep Coding | 
-Keep Building** 🚀  
+Keep Building 🚀  
 
 <br>
 
