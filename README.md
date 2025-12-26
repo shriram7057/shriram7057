@@ -203,18 +203,19 @@ Keep Building 🚀
 <br>
 <div style="
   display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
   align-items: center;
   gap: 20px;
   margin: 20px 0;
-  flex-wrap: nowrap; /* prevents vertical arrangement */
+  white-space: nowrap;
 ">
 
-  <img src="GitHub-YOLO.png" width="120" style="border-radius:12px;" />
-  <img src="GitHub-Pull%20Shark.png" width="120" style="border-radius:12px;" />
-  <img src="GitHub-Quickdraw.png" width="120" style="border-radius:12px;" />
-  <img src="GitHub-pair-extraordinaire.png" width="120" style="border-radius:12px;" />
+  <img src="GitHub-YOLO.png" height="120" width="120" style="border-radius:12px;" />
+  <img src="GitHub-Pull%20Shark.png" height="120" width="120" style="border-radius:12px;" />
+  <img src="GitHub-Quickdraw.png" height="120" width="120" style="border-radius:12px;" />
+  <img src="GitHub-pair-extraordinaire.png" height="120" width="120" style="border-radius:12px;" />
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Developer%20Program%20Member.gif?raw=true"
+    height="120"
+    width="180"/>
 
 </div>
 <br>
