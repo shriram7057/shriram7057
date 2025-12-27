@@ -138,8 +138,6 @@
     />
   </a>
 </div>
->
-
 
 <!-- Study Plan Medals -->
 <div style="
@@ -169,8 +167,6 @@
   </div>
 </div>
 
-
- 
 <div style="text-align:center; margin:60px 0 30px 0;">
   <a href="https://leetcode.com/u/shriram_lahane/" target="_blank"
      style="
