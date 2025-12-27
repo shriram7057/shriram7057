@@ -203,8 +203,8 @@
   <img src="GitHub-Quickdraw.png" height="120" width="120" style="border-radius:12px;" />
   <img src="GitHub-pair-extraordinaire.png" height="120" width="120" style="border-radius:12px;" />
   <img src="https://github.com/shriram7057/shriram7057/blob/main/Developer%20Program%20Member.gif?raw=true"
-    height="120"
-    width="180"/>
+    height="140"
+    width="170"/>
 
 </div>
 <br>
