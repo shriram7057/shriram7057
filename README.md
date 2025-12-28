@@ -202,6 +202,7 @@
   <img src="GitHub-Pull%20Shark.png" height="120" width="120" style="border-radius:12px;" />
   <img src="GitHub-Quickdraw.png" height="120" width="120" style="border-radius:12px;" />
   <img src="GitHub-pair-extraordinaire.png" height="120" width="120" style="border-radius:12px;" />
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/GitHub%20Org.gif?raw=true" width="140" />
   <img src="https://github.com/shriram7057/shriram7057/blob/main/Developer%20Program%20Member.gif?raw=true"
     height="140"
     width="170"/>
