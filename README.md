@@ -78,9 +78,6 @@
   </a>
 
 </div>
-
-[![Visit My Repositories](https://img.shields.io/badge/🚀_Visit_My_Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0D1117)](https://github.com/shriram7057?tab=repositories)
-
 </div>
 
 ---
