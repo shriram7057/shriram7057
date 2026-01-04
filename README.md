@@ -1,3 +1,5 @@
+<p align="center">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/antnO%20desk.gif?raw=true" width="200" style="margin-right:5 px;" />
 # Hi 👋, I'm Shriram Lahane⚡
 
 ### Computer Engineering student focused on coding, problem-solving, and full-stack development.
