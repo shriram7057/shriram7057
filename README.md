@@ -1,19 +1,19 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/antnO%20desk.gif" width="220" />  
 </p>
-Hi 👋, I'm Shriram Lahane ⚡
+<h3>Hi 👋, I'm Shriram Lahane ⚡</h3>
 
 
 ### Computer Engineering student focused on coding, problem-solving, and full-stack development.
 
 - 🌱 I'm currently learning **MERN Stack , AI, and Systems Programming**
 
-- 👯 I'm looking to collaborate on ** Web development & -Open-source software projects
+- 👯 I'm looking to collaborate on  Web development & -Open-source software projects
 
-- 🤝 I'm looking for help with **Research-oriented and learning-focused AI work
+- 🤝 I'm looking for help with Research-oriented and learning-focused AI work
 **
 
-- 📫 How to reach me **lahaneshriram2@gmail.com**
+- 📫 How to reach me lahaneshriram2@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
