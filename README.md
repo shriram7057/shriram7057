@@ -239,7 +239,7 @@ problem-solving, and full-stack development.
 <div align="center">
   <img 
     src="https://github.com/shriram7057/shriram7057/blob/main/Thank%20You%20GitHub.gif?raw=true" 
-    width="680" 
+    width="500" 
     alt="Thank You GitHub"
   />
 </div>
