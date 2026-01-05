@@ -1,29 +1,42 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/antnO%20desk.gif" width="220" />  
-</p>
+<table>
+  <tr>
+    <!-- LEFT CONTENT -->
+    <td valign="top" width="70%">
+
 <h3>Hi 👋, I'm Shriram Lahane ⚡</h3>
 
-
-### Computer Engineering student focused on coding, problem-solving, and full-stack development.
-
-- 🌱 I'm currently learning **MERN Stack , AI, and Systems Programming**
-
-- 👯 I'm looking to collaborate on  Web development & -Open-source software projects
-
-- 🤝 I'm looking for help with Research-oriented and learning-focused AI work
-**
-
-- 📫 How to reach me lahaneshriram2@gmail.com
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/shriram7057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shriram7057" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Shriram Lahane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shriram Lahane" height="30" width="40" /></a>
-<a href="https://kaggle.com/shriramlahane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shriramlahane" height="30" width="40" /></a>
-<a href="https://instagram.com/pvt.shree_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pvt.shree_01" height="30" width="40" /></a>
-<a href="https://leetcode.com/shriram-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shriram-01" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shriram01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shriram01" height="30" width="40" /></a>
+<p>
+<b>Computer Engineering student</b> focused on coding,<br>
+problem-solving, and full-stack development.
 </p>
+
+<ul>
+  <li>🌱 Currently learning <b>MERN Stack, AI, and Systems Programming</b></li>
+  <li>👯 Looking to collaborate on <b>Web Development & Open-source projects</b></li>
+  <li>🤝 Seeking help with <b>research-oriented and learning-focused AI work</b></li>
+  <li>📫 Reach me at <b>lahaneshriram2@gmail.com</b></li>
+</ul>
+
+<h3>Connect with me:</h3>
+
+<p>
+<a href="https://github.com/shriram7057"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/></a>
+<a href="https://linkedin.com/in/Shriram%20Lahane"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+<a href="https://kaggle.com/shriramlahane"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/></a>
+<a href="https://instagram.com/pvt.shree_01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
+<a href="https://leetcode.com/shriram-01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
+<a href="https://auth.geeksforgeeks.org/user/shriram01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/></a>
+</p>
+
+   </td>
+
+   <!-- RIGHT GIF -->
+  <td valign="top" align="right" width="30%">
+      <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/antnO%20desk.gif" width="220"/>
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> 
