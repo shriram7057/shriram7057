@@ -56,24 +56,6 @@ problem-solving, and full-stack development.
 [![HackerRank](https://img.shields.io/badge/💻_Visit_My-HackerRank_Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=181717)](https://www.hackerrank.com/profile/lahaneshriram2)
 
 </div>
-
-## 🚀 LeetCode Achievements
-
-<details>
-<summary><b>👉 View My LeetCode Achievements</b></summary>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Architecture%20Builder%20Badge!.gi" width="250"/>
-  <img src="gifs/day2.gif" width="250"/>
-  <img src="gifs/day3.gif" width="250"/>
-</p>
-
-</details>
-
-
-
 ---
 ## 🏆 <strong>LeetCode Achievements</strong>
 <br>
