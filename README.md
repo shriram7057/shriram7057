@@ -27,6 +27,21 @@ problem-solving, and full-stack development.
 <a href="https://leetcode.com/shriram-01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
 <a href="https://auth.geeksforgeeks.org/user/shriram01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/></a>
 </p>
+<div style="margin-bottom: 20px;">
+<div align="left">
+
+[![Visit My Repositories](https://img.shields.io/badge/🚀_Visit_My_Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0D1117)](https://github.com/shriram7057?tab=repositories)
+
+[![Visit My LeetCode Profile](https://img.shields.io/badge/🚀Visit_my_LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=181717)](https://leetcode.com/u/shriram_lahane/)
+
+[![GFG](https://img.shields.io/badge/📗_Visit_My-GeeksforGeeks_Profile-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=181717)](https://www.geeksforgeeks.org/profile/shriram01)
+
+[![Kaggle](https://img.shields.io/badge/📊_Visit_My-Kaggle_Profile-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=181717)](https://www.kaggle.com/shriramlahane)
+
+[![HackerRank](https://img.shields.io/badge/💻_Visit_My-HackerRank_Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=181717)](https://www.hackerrank.com/profile/lahaneshriram2)
+
+</div>
+</div>
 
    </td>
 
@@ -56,7 +71,8 @@ problem-solving, and full-stack development.
 [![HackerRank](https://img.shields.io/badge/💻_Visit_My-HackerRank_Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=181717)](https://www.hackerrank.com/profile/lahaneshriram2)
 
 </div>
----
+
+
 ## 🏆 <strong>LeetCode Achievements</strong>
 <br>
 
