@@ -57,6 +57,20 @@ problem-solving, and full-stack development.
 
 </div>
 
+## 🚀 LeetCode Achievements
+
+<details>
+<summary><b>👉 View My LeetCode Achievements</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/Architecture%20Builder%20Badge!.gi" width="250"/>
+  <img src="gifs/day2.gif" width="250"/>
+  <img src="gifs/day3.gif" width="250"/>
+</p>
+
+</details>
 
 
 
