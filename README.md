@@ -40,6 +40,7 @@ problem-solving, and full-stack development.
 
 [![HackerRank](https://img.shields.io/badge/💻_Visit_My-HackerRank_Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=181717)](https://www.hackerrank.com/profile/lahaneshriram2)
 
+[![Microsoft Learn](https://img.shields.io/badge/📘_Visit_My-Microsoft_Learn_Profile-0D1117?style=for-the-badge&logo=microsoftlearn&logoColor=258FFA&labelColor=181717)](https://learn.microsoft.com/en-us/users/shriramlahane-5587/achievements?tab=tab-modules&source=docs)
 </div>
 </div>
 
