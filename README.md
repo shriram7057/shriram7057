@@ -80,7 +80,7 @@ problem-solving, and full-stack development.
     transition: all 0.3s ease;
   "
 >
-🏆 Visit My LeetCode Achievements
+🏆 <h2>Visit My LeetCode Achievements</h2>
 </summary>
 
 <br>
@@ -199,7 +199,7 @@ problem-solving, and full-stack development.
     transition: all 0.3s ease;
   "
 >
-🏆 Visit My GitHub Achievements
+🏆 <h2>Visit My GitHub Achievements</h2>
 </summary>
 
 <br>
@@ -262,7 +262,7 @@ problem-solving, and full-stack development.
     transition: all 0.3s ease;
   "
 >
-🏆 Visit My Geeks-For-Geeks Achievements
+🏆 <h2>Visit My Geeks-For-Geeks Achievements</h2>
 </summary>
 
 <br>
