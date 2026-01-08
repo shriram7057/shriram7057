@@ -336,33 +336,5 @@ problem-solving, and full-stack development.
   </div>
 </div>
 
-</details>
-🏆 <h2>Visit My Geeks-For-Geeks Achievements</h2>
-</summary>
-
-<br>
-
-## 🏆 <strong>Geeks-For-Geeks Achievements</strong>
-
-<br>
-
-<div style="
-  border: 1px solid #e5e5e5;
-  padding: 30px;
-  border-radius: 14px;
-  background: #ffffff;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
-  margin-bottom: 50px;
-  overflow-x: auto;
-">
-
-  <div style="
-    display: flex;
-    gap: 22px;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-  ">
-
 **Keep Learning | Keep Coding | Keep Building** ⚡🚀  
 
