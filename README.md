@@ -4,7 +4,6 @@
     <td valign="top" width="70%">
 
 <h3>Hi 👋, I'm Shriram Lahane ⚡</h3>
-
 <p>
 <b>Computer Engineering student</b> focused on coding,<br>
 problem-solving, and full-stack development.
