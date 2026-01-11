@@ -7,7 +7,6 @@
 <b>Computer Engineering student</b> focused on coding,<br>
 problem-solving, and full-stack development.
 </p>
-
 <ul>
   <li>🌱 Currently learning <b>MERN Stack, AI, and Systems Programming</b></li>
   <li>👯 Looking to collaborate on <b>Web Development & Open-source projects</b></li>
