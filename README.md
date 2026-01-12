@@ -46,7 +46,7 @@ problem-solving, and full-stack development.
    <!-- RIGHT GIF -->
   <td valign="top" align="right" width="30%">
       <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/antnO%20desk.gif" width="200"/>
-          <img src="https://github.com/shriram7057/shriram7057/blob/main/GitHub%20Overview%202.jpeg?raw=true" width="200"/>
+          <img src="https://github.com/shriram7057/shriram7057/blob/main/Animated%20icon%202.gif?raw=true" width="200"/>
     </td>
   </tr>
 </table>
