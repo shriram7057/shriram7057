@@ -312,9 +312,23 @@ problem-solving, and full-stack development.
 ">
 
   <div style="display:flex; gap:22px; justify-content:center; flex-wrap:wrap;">
-    <img src="Kaggle-Competition.png" width="160"/>
-    <img src="Kaggle-Notebook.png" width="160"/>
-    <img src="Kaggle-Microcourse.png" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Learner.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Stylish.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Vampire.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20PY%20Coder.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20R-Coder%20.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Bookmarker.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Code%20Forker.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Github%20Coder.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Code%20Uploader.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Creator.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Dataset%20Creator.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Agent%20of%20Discord.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%207%20Day%20Login%20Streak.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Linked%20Model%20Creator.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Pipeline%20Creator.png?raw=true" width="160"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Kaggle%20Community%20Member.png?raw=true" width="160"/>
+
   </div>
 </div>
 </details>
