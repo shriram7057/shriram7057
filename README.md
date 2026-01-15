@@ -241,6 +241,84 @@ problem-solving, and full-stack development.
 </div>
 
 </details>
+<details>
+<summary
+  style="
+    cursor: pointer;
+    list-style: none;
+    display: inline-block;
+    padding: 16px 36px;
+    font-size: 20px;
+    font-weight: 800;
+    color: #00ea64;
+    background: #0b0f14;
+    border-radius: 14px;
+    border: 1px solid #00ea64;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.35);
+  "
+>
+🏆 <h2>View My HackerRank Achievements</h2>
+</summary>
+
+<br>
+
+<div style="
+  border: 1px solid #e5e5e5;
+  padding: 30px;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  margin-bottom: 50px;
+">
+
+  <div style="display:flex; gap:22px; justify-content:center; flex-wrap:wrap;">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20C%20Badge.gif?raw=true" width="140"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20C++%20Badge.gif?raw=true" width="140"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Java%20Badge.gif?raw=true" width="130"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PY%20Badge.gif?raw=true" width="140"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PS%20Badge.gif?raw=true" width="135"/>
+
+  </div>
+</div>
+</details>
+<details>
+<summary
+  style="
+    cursor: pointer;
+    list-style: none;
+    display: inline-block;
+    padding: 16px 36px;
+    font-size: 20px;
+    font-weight: 800;
+    color: #20beff;
+    background: #0b0f14;
+    border-radius: 14px;
+    border: 1px solid #20beff;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.35);
+  "
+>
+🏆 <h2>View My Kaggle Achievements</h2>
+</summary>
+
+<br>
+
+<div style="
+  border: 1px solid #e5e5e5;
+  padding: 30px;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  margin-bottom: 50px;
+">
+
+  <div style="display:flex; gap:22px; justify-content:center; flex-wrap:wrap;">
+    <img src="Kaggle-Competition.png" width="160"/>
+    <img src="Kaggle-Notebook.png" width="160"/>
+    <img src="Kaggle-Microcourse.png" width="160"/>
+  </div>
+</div>
+</details>
+
 <!-- Dark Theme Toggle Button -->
 <details>
 <summary
