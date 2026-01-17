@@ -278,6 +278,8 @@ problem-solving, and full-stack development.
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PY%20Badge.gif?raw=true" width="140"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PS%20Badge.gif?raw=true" width="135"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Badge.gif?raw=true" width="135"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Basics%20Cer.png?raw=true" width="145"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Inter%20Cer.png?raw=true" width="145"/>
 
   </div>
 </div>
