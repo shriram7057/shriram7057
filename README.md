@@ -281,6 +281,7 @@ problem-solving, and full-stack development.
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Basics%20Cer.png?raw=true" width="145"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Inter%20Cer.png?raw=true" width="145"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Adv%20Cer.png?raw=true" width="145"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PY%20Basics%20Cer.png?raw=true" width="145"/>
 
   </div>
 </div>
