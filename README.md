@@ -8,9 +8,10 @@
 problem-solving, and full-stack development.
 </p>
 <ul>
-  <li>🌱 Currently learning <b>MERN Stack, AI, and Systems Programming</b></li>
-  <li>👯 Looking to collaborate on <b>Web Development & Open-source projects</b></li>
-  <li>🤝 Seeking help with <b>research-oriented and learning-focused AI work</b></li>
+ <li>🌱 Currently learning <b>MERN Stack, AI, and Systems Programming</b></li>
+<li>👯 Open to collaboration on <b>Web Development and Open-Source projects</b></li>
+<li>🤝 Interested in <b>research-driven and learning-focused AI work</b></li>
+
 <li>
   📫 Reach me at 
   <a href="mailto:lahaneshriram2@gmail.com">
