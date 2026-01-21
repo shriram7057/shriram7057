@@ -291,10 +291,11 @@ problem-solving, and full-stack development.
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Reat%20API%20Cer.png?raw=true" width="145"/>
      <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PS%20Basic%20Cer.png?raw=true" width="145"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20JS%20Cer.png?raw=true" width="145"/>
-
    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20RCG%20Cer.png?raw=true" width="455"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20GO%20Inter%20Cer.png?raw=true" width="145"/>
-   
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20CSS%20Cer.png?raw=true" width="145"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Angular%202%20Cer.png?raw=true" width="400"/>
+
   </div>
 </div>
 </details>
