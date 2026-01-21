@@ -278,25 +278,86 @@ problem-solving, and full-stack development.
 ">
 
   <div style="display:flex; gap:22px; justify-content:center; flex-wrap:wrap;">
+  <a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
   <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20C%20Badge.gif?raw=true" width="140"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20C++%20Badge.gif?raw=true" width="140"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Java%20Badge.gif?raw=true" width="130"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PY%20Badge.gif?raw=true" width="140"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PS%20Badge.gif?raw=true" width="135"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Badge.gif?raw=true" width="135"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Software%20engineer%20Cer.png?raw=true" width="145"/>
-<img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Software%20engineer%20Intern%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20C++%20Badge.gif?raw=true" width="140"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Java%20Badge.gif?raw=true" width="130"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PY%20Badge.gif?raw=true" width="140"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PS%20Badge.gif?raw=true" width="135"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Badge.gif?raw=true" width="135"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Software%20engineer%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Software%20engineer%20Intern%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Frontend%20Developer%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
   <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Basics%20Cer.png?raw=true" width="145"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Inter%20Cer.png?raw=true" width="145"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Adv%20Cer.png?raw=true" width="145"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PY%20Basics%20Cer.png?raw=true" width="145"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Reat%20API%20Cer.png?raw=true" width="145"/>
-     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PS%20Basic%20Cer.png?raw=true" width="145"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20JS%20Cer.png?raw=true" width="145"/>
-   <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20RCG%20Cer.png?raw=true" width="455"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20GO%20Inter%20Cer.png?raw=true" width="145"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20CSS%20Cer.png?raw=true" width="145"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Angular%202%20Cer.png?raw=true" width="350"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Inter%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Adv%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PY%20Basics%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Reat%20API%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PS%20Basic%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20JS%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20RCG%20Cer.png?raw=true" width="455"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20GO%20Inter%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20CSS%20Cer.png?raw=true" width="145"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Angular%202%20Cer.png?raw=true" width="300"/>
+</a>
+
 
   </div>
 </div>
@@ -332,22 +393,70 @@ problem-solving, and full-stack development.
 ">
 
   <div style="display:flex; gap:22px; justify-content:center; flex-wrap:wrap;">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Learner.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Stylish.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Vampire.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20PY%20Coder.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20R-Coder%20.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Bookmarker.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Code%20Forker.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Github%20Coder.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Code%20Uploader.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Creator.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Dataset%20Creator.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Agent%20of%20Discord.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%207%20Day%20Login%20Streak.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Linked%20Model%20Creator.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Pipeline%20Creator.png?raw=true" width="160"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Kaggle%20Community%20Member.png?raw=true" width="160"/>
+   <a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Learner.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Stylish.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Vampire.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20PY%20Coder.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20R-Coder%20.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Bookmarker.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Code%20Forker.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Github%20Coder.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Code%20Uploader.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Creator.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Dataset%20Creator.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Agent%20of%20Discord.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%207%20Day%20Login%20Streak.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Linked%20Model%20Creator.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Pipeline%20Creator.png?raw=true" width="160"/>
+</a>
+
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Kaggle%20Community%20Member.png?raw=true" width="160"/>
+</a>
+
 
   </div>
 </div>
