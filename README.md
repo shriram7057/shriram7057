@@ -278,13 +278,15 @@ problem-solving, and full-stack development.
 ">
 
   <div style="display:flex; gap:22px; justify-content:center; flex-wrap:wrap;">
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20C%20Badge.gif?raw=true" width="140"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20C%20Badge.gif?raw=true" width="140"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20C++%20Badge.gif?raw=true" width="140"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Java%20Badge.gif?raw=true" width="130"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PY%20Badge.gif?raw=true" width="140"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PS%20Badge.gif?raw=true" width="135"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Badge.gif?raw=true" width="135"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Basics%20Cer.png?raw=true" width="145"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Software%20engineer%20Cer.png?raw=true" width="145"/>
+
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Basics%20Cer.png?raw=true" width="145"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Inter%20Cer.png?raw=true" width="145"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20SQL%20Adv%20Cer.png?raw=true" width="145"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20PY%20Basics%20Cer.png?raw=true" width="145"/>
@@ -294,7 +296,7 @@ problem-solving, and full-stack development.
    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20RCG%20Cer.png?raw=true" width="455"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20GO%20Inter%20Cer.png?raw=true" width="145"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20CSS%20Cer.png?raw=true" width="145"/>
-    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Angular%202%20Cer.png?raw=true" width="400"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Angular%202%20Cer.png?raw=true" width="350"/>
 
   </div>
 </div>
