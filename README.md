@@ -452,14 +452,16 @@ problem-solving, and full-stack development.
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Pipeline%20Creator.png?raw=true" width="160"/>
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Model%20Pipeline%20Creator.png?raw=true" width="170"/>
 </a>
 
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
   <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20Kaggle%20Community%20Member.png?raw=true" width="160"/>
 </a>
 
-
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+<img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle-Student-.png?raw=true" width="160"/>
+</a>
   </div>
 </div>
 </details>
