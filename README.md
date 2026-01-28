@@ -99,8 +99,7 @@ problem-solving, and full-stack development.
   border-radius: 14px; 
   background: #ffffff;
   box-shadow: 0 4px 16px rgba(0,0,0,0.08); 
-  margin-bottom: 40px;">
-  
+  margin-bottom: 40px;"> 
   <strong style="font-size:22px;">🏅 Competition Medals</strong>
 
   <div style="display: flex; gap: 20px; justify-content: center; margin-top:20px; flex-wrap: wrap;">
