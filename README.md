@@ -28,7 +28,7 @@ problem-solving, and full-stack development.
 <a href="https://kaggle.com/shriramlahane"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/></a>
 <a href="https://instagram.com/pvt.shree_01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
 <a href="https://leetcode.com/shriram-01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/shriram01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/></a>
+<a href="https://auth.geeksforgeeks.org/user/shriram01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="75"/></a>
 </p>
 <div style="margin-bottom: 20px;">
 <div align="left">
