@@ -111,6 +111,7 @@
     <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Nov%20Badge.gif?raw=true" width="150"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/Leetcode%20Dec%20Badge.gif?raw=true" width="150"/>
     <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Daily%20coin.gif?raw=true" width="150"/>
+   <img src = "https://github.com/shriram7057/shriram7057/blob/main/LC%20DCC%20January%202026!.gif?raw=true" width="150"/>
   </div>
 </div>
 
