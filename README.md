@@ -465,6 +465,9 @@
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
 <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle-Student-.png?raw=true" width="160"/>
 </a>
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+<img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle-GSC-Badge.png?raw=true" width="160"/>
+</a>
   </div>
 </div>
 </details>
