@@ -132,7 +132,7 @@
       <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/leetcode_50days.gif" width="150"/>
     </a>
     <a href="https://leetcode.com/rewind/2025/" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/LCR%202025.png?raw=true" width="110"/>
+      <img src="https://github.com/shriram7057/shriram7057/blob/main/LCR%202025.png?raw=true" width="480"/>
     </a>
   </div>
 </div>
