@@ -35,7 +35,7 @@
 
 [![Visit My Repositories](https://img.shields.io/badge/🚀_Visit_My_Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0D1117)](https://github.com/shriram7057?tab=repositories)
 
-[![Visit My LeetCode Profile](https://img.shields.io/badge/🚀Visit_my_LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=181717)](https://leetcode.com/u/shriram_lahane/)
+[![𝗩𝗶𝘀𝗶𝘁 𝗠𝘆 𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲 𝗣𝗿𝗼𝗳𝗶𝗹𝗲](https://img.shields.io/badge/🚀Visit_my_LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=181717)](https://leetcode.com/u/shriram_lahane/)
 
 [![GFG](https://img.shields.io/badge/📗_Visit_My-GeeksforGeeks_Profile-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=181717)](https://www.geeksforgeeks.org/profile/shriram01)
 
