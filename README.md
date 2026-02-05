@@ -364,6 +364,10 @@
   <img src="https://github.com/shriram7057/shriram7057/blob/main/HR%2010%20Days%20of%20Statistics%20Badge.png?raw=true" width="140"/>
 </a>
 <a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HR%2030%20Days%20of%20Code%20Badge.png?raw=true" width="140"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
   <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Software%20engineer%20Cer.png?raw=true" width="145"/>
 </a>
 
@@ -418,7 +422,6 @@
 <a href="https://www.hackerrank.com/profile/lahaneshriram2" target="_blank">
   <img src="https://github.com/shriram7057/shriram7057/blob/main/HC%20Angular%202%20Cer.png?raw=true" width="300"/>
 </a>
-
 
   </div>
 </div>
