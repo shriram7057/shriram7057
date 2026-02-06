@@ -527,6 +527,9 @@
 <a href="https://www.kaggle.com/shriramlahane" target="_blank">
 <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle-GSC-Badge.png?raw=true" width="160"/>
 </a>
+<a href="https://www.kaggle.com/shriramlahane" target="_blank">
+<img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%20API%20NB%20Cerator%20Badge.png?raw=true" width="160"/>
+</a>
   </div>
 </div>
 </details>
