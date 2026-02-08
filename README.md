@@ -56,9 +56,9 @@
     </td>
   </tr>
 </table>
-<h2 align="center">🔧 Languages and Tools</h2>
+<h2 align="center">🔧 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
 
-<div align="center">
+<div align="left">
 <table>
 
 <tr>
