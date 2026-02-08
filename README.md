@@ -66,6 +66,7 @@
 <table>
 
 <tr>
+<td align="center" width="160"><img src="https://github.com/shriram7057/shriram7057/blob/main/OpenAI.jpeg?raw=true" width="48"/><br/><b>Open Ai </b></td>
 <td align="center" width="160"><img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br/><b>Android Studio</b></td>
 <td align="center" width="160"><img src="https://skillicons.dev/icons?i=angular" width="48"/><br/><b>Angular</b></td>
 <td align="center" width="160"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><b>AWS</b></td>
@@ -81,6 +82,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/><b>Express.js</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br/><b>Figma</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="48"/><br/><b>Kotlin</b></td>
+<td align="center"><img src="https://github.com/shriram7057/shriram7057/blob/main/Perplexity.jpeg?raw=true" width="48"/><br/><b>Perplexity</b></td>
 
 </tr>
 
@@ -91,6 +93,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><b>GitHub</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><b>HTML</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=swift" width="48"/><br/><b>Swift</b></td>
+<td align="center"><img src="https://github.com/shriram7057/shriram7057/blob/main/Gemini.jpeg?raw=true" width="48"/><br/><b>Gemini</b></td>
 
 </tr>
 
@@ -101,6 +104,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/><b>Kubernetes</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><b>MongoDB</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=ruby" width="48"/><br/><b>Ruby</b></td>
+<td align="center"><img src="https://github.com/shriram7057/shriram7057/blob/main/Claude.jpeg?raw=true" width="48"/><br/><b>Claude</b></td>
 
 </tr>
 
@@ -111,6 +115,7 @@
 <td align="center"><img src="https://cdn.simpleicons.org/ollama" width="48"/><br/><b>Ollama</b></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/><br/><b>Oracle</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/c#" width="48"/><br/><b>C#</b></td>
+<td align="center"><img src="https://github.com/shriram7057/shriram7057/blob/main/Microsoft%20Copilot.jpeg?raw=true" width="48"/><br/><b>Microsoft Copilot</b></td>
 
 </tr>
 
@@ -121,6 +126,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Python</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/><b>PyTorch</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" width="48"/><br/><b>Anaconda</b></td>
+<td align="center"><img src="https://github.com/shriram7057/shriram7057/blob/main/DeepSeek.jpeg?raw=true" width="48"/><br/><b>DeepSeek</b></td>
 
 </tr>
 
@@ -131,6 +137,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><b>AWS</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br/><b>Azure</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=eclipse" width="48"/><br/><b>Eclipse</b></td>
+<td align="center"><img src="https://github.com/shriram7057/shriram7057/blob/main/Antigravity.jpeg?raw=true" width="48"/><br/><b>Antigravity</b></td>
 
 </tr>
 <tr>
