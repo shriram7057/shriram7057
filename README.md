@@ -20,7 +20,7 @@
 </li>
 </ul>
 
-<h3>Connect with me:</h3>
+<h3>𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲🤝:</h3>
 
 <p>
 <a href="https://github.com/shriram7057"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/></a>
@@ -31,21 +31,21 @@
 <a href="https://auth.geeksforgeeks.org/user/shriram01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="75"/></a>
 </p>
 <div style="margin-bottom: 20px;">
+<h3>𝗚𝗲𝘁 𝗶𝗻 𝗧𝗼𝘂𝗰𝗵 𝗼𝗻 𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀🤝:</h3>
+
 <div align="left">
 
-[![Visit My Repositories](https://img.shields.io/badge/🚀_Visit_My_Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0D1117)](https://github.com/shriram7057?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057?tab=repositories)
 
-[![𝗩𝗶𝘀𝗶𝘁 𝗠𝘆 𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲 𝗣𝗿𝗼𝗳𝗶𝗹𝗲](https://img.shields.io/badge/🚀Visit_my_LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=181717)](https://leetcode.com/u/shriram_lahane/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/shriram_lahane/)
 
-[![GFG](https://img.shields.io/badge/📗_Visit_My-GeeksforGeeks_Profile-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=181717)](https://www.geeksforgeeks.org/profile/shriram01)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/profile/shriram01)
 
-[![Kaggle](https://img.shields.io/badge/📊_Visit_My-Kaggle_Profile-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=181717)](https://www.kaggle.com/shriramlahane)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/shriramlahane)
 
-[![HackerRank](https://img.shields.io/badge/💻_Visit_My-HackerRank_Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=181717)](https://www.hackerrank.com/profile/lahaneshriram2)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/profile/lahaneshriram2)
 
-[![Microsoft Learn](https://img.shields.io/badge/📘_Visit_My-Microsoft_Learn_Profile-0D1117?style=for-the-badge&logo=microsoftlearn&logoColor=258FFA&labelColor=181717)](https://learn.microsoft.com/en-us/users/shriramlahane-5587/achievements?tab=tab-modules&source=docs)
-</div>
-</div>
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Profile-0D1117?style=for-the-badge&logo=microsoft&logoColor=258FFA)](https://learn.microsoft.com/en-us/users/shriramlahane-5587/achievements?tab=tab-modules&source=docs)
 
    </td>
 
