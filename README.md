@@ -67,6 +67,7 @@
 <td align="center" width="160"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><b>AWS</b></td>
 <td align="center" width="160"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/><b>C</b></td>
 <td align="center" width="160"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><b>C++</b></td>
+<td align="center" width="160"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><b>VS Code</b></td>
 </tr>
 
 <tr>
@@ -75,6 +76,8 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><b>Docker</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/><b>Express.js</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br/><b>Figma</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="48"/><br/><b>Kotlin</b></td>
+
 </tr>
 
 <tr>
@@ -83,6 +86,8 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><b>Git</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><b>GitHub</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><b>HTML</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=swift" width="48"/><br/><b>Swift</b></td>
+
 </tr>
 
 <tr>
@@ -91,6 +96,8 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48"/><br/><b>Jupyter</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/><b>Kubernetes</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><b>MongoDB</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ruby" width="48"/><br/><b>Ruby</b></td>
+
 </tr>
 
 <tr>
@@ -99,6 +106,8 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><b>Node.js</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/ollama" width="48"/><br/><b>Ollama</b></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/><br/><b>Oracle</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/c#" width="48"/><br/><b>C#</b></td>
+
 </tr>
 
 <tr>
@@ -107,14 +116,27 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><b>Postman</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Python</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/><b>PyTorch</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=anaconda" width="48"/><br/><b>Anaconda</b></td>
+
 </tr>
 
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><b>React</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br/><b>Spring</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/><b>TensorFlow</b></td>
-<!-- <td align="center"></td>
-<td align="center"></td> -->
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><b>AWS</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br/><b>Azure</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=eclipse" width="48"/><br/><b>Eclipse</b></td>
+
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/><b>Firebase</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=go" width="48"/><br/><b>Go</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br/><b>idea</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ai" width="48"/><br/><b>aiAI</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=npm" width="48"/><br/><b>npm</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=phpstorm" width="48"/><br/><b>phpstorm</b></td>
+
 </tr>
 
 </table>
