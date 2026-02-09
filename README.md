@@ -49,6 +49,12 @@
   <a href="https://discord.com/shriram_79991" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
+<a href="https://wa.me/7057461009" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" />
+</a>
+<a href="https://www.facebook.com/yourusername" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
+</a>
 </p>
 <div style="margin-bottom: 20px;">
   
