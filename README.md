@@ -24,7 +24,7 @@
 
 <p>
   <a href="https://github.com/shriram7057">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="41" />
   </a>
   <a href="https://linkedin.com/in/Shriram%20Lahane">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
