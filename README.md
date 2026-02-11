@@ -261,7 +261,8 @@
   background: #ffffff;
   box-shadow: 0 4px 16px rgba(0,0,0,0.08);
   margin-bottom: 60px;">
-  
+
+
   <strong style="font-size:22px;">🏅 Study Plan Medals</strong>
 
   <div style="display:flex; flex-wrap:wrap; gap:25px; justify-content:center; margin-top:30px;">
