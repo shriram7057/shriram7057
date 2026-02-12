@@ -62,12 +62,12 @@
 
 <table border="2" cellpadding="10" cellspacing="0">
   <tr>
-    <th>Platform</th>
-    <th>Profile</th>
+    <th>𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺</th>
+    <th>𝗣𝗿𝗼𝗳𝗶𝗹𝗲</th>
   </tr>
 
   <tr>
-    <td>GitHub</td>
+    <td>𝗚𝗶𝘁𝗛𝘂𝗯</td>
     <td>
       <a href="https://github.com/shriram7057?tab=repositories">
         <img src="https://img.shields.io/badge/GitHub-Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -76,7 +76,7 @@
   </tr>
 
   <tr>
-    <td>LeetCode</td>
+    <td>𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲</td>
     <td>
       <a href="https://leetcode.com/u/shriram_lahane/">
         <img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
@@ -85,7 +85,7 @@
   </tr>
 
   <tr>
-    <td>GeeksforGeeks</td>
+    <td>𝗚𝗲𝗲𝗸𝘀𝗳𝗼𝗿𝗚𝗲𝗲𝗸𝘀</td>
     <td>
       <a href="https://www.geeksforgeeks.org/profile/shriram01">
         <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
@@ -94,7 +94,7 @@
   </tr>
 
   <tr>
-    <td>Kaggle</td>
+    <td>𝗞𝗮𝗴𝗴𝗹𝗲</td>
     <td>
       <a href="https://www.kaggle.com/shriramlahane">
         <img src="https://img.shields.io/badge/Kaggle-Profile-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
@@ -103,7 +103,7 @@
   </tr>
 
   <tr>
-    <td>HackerRank</td>
+    <td>𝗛𝗮𝗰𝗸𝗲𝗿𝗥𝗮𝗻𝗸</td>
     <td>
       <a href="https://www.hackerrank.com/profile/lahaneshriram2">
         <img src="https://img.shields.io/badge/HackerRank-Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
@@ -112,7 +112,7 @@
   </tr>
 
   <tr>
-    <td>Microsoft Learn</td>
+    <td>𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗟𝗲𝗮𝗿𝗻</td>
     <td>
       <a href="https://learn.microsoft.com/en-us/users/shriramlahane-5587/achievements?tab=tab-modules&source=docs">
         <img src="https://img.shields.io/badge/Microsoft_Learn-Profile-0D1117?style=for-the-badge&logo=microsoft&logoColor=258FFA" />
