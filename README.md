@@ -22,58 +22,125 @@
 
 <h3>𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲🤝:</h3>
 
-<p>
-  <a href="https://github.com/shriram7057">
-    <img src="https://skillicons.dev/icons?i=github" height="41" />
-  </a>
-  <a href="https://linkedin.com/in/Shriram%20Lahane">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://kaggle.com/shriramlahane">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
-  </a>
-  <a href="https://instagram.com/pvt.shree_01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
-  <a href="https://leetcode.com/shriram-01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/shriram01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="75"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/lahaneshriram2">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45"/>
-  </a>
-
-  <!-- Discord Link -->
-  <a href="https://discord.com/shriram_79991" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" />
-  </a>
-<a href="https://wa.me/7057461009" target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" />
-</a>
-<a href="https://www.facebook.com/yourusername" target="_blank">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
-</a>
-</p>
+<table border="2" cellpadding="10" cellspacing="0">
+<tr>
+  <td align="center">
+    <a href="https://github.com/shriram7057">
+      <img src="https://skillicons.dev/icons?i=github" height="40" />
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://linkedin.com/in/Shriram%20Lahane">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://kaggle.com/shriramlahane">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://instagram.com/pvt.shree_01">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://leetcode.com/shriram-01">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://auth.geeksforgeeks.org/user/shriram01">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://www.hackerrank.com/profile/lahaneshriram2">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://discord.com/shriram_79991" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord" height="40" />
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://wa.me/7057461009" target="_blank">
+      <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" />
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://www.facebook.com/yourusername" target="_blank">
+      <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
+    </a>
+  </td>
+</tr>
+</table>
 <div style="margin-bottom: 20px;">
   
-<h3>𝗚𝗲𝘁 𝗶𝗻 𝗧𝗼𝘂𝗰𝗵 𝗼𝗻 𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀🤝:</h3>
+<h3>𝗚𝗲𝘁 𝗶𝗻 𝗧𝗼𝘂𝗰𝗵 𝗼𝗻 𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 🤝</h3>
 
-<div align="left">
+<table border="2" cellpadding="10" cellspacing="0">
+  <tr>
+    <th>Platform</th>
+    <th>Profile</th>
+  </tr>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057?tab=repositories)
+  <tr>
+    <td>GitHub</td>
+    <td>
+      <a href="https://github.com/shriram7057?tab=repositories">
+        <img src="https://img.shields.io/badge/GitHub-Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/shriram_lahane/)
+  <tr>
+    <td>LeetCode</td>
+    <td>
+      <a href="https://leetcode.com/u/shriram_lahane/">
+        <img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+      </a>
+    </td>
+  </tr>
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/profile/shriram01)
+  <tr>
+    <td>GeeksforGeeks</td>
+    <td>
+      <a href="https://www.geeksforgeeks.org/profile/shriram01">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+      </a>
+    </td>
+  </tr>
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/shriramlahane)
+  <tr>
+    <td>Kaggle</td>
+    <td>
+      <a href="https://www.kaggle.com/shriramlahane">
+        <img src="https://img.shields.io/badge/Kaggle-Profile-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
+      </a>
+    </td>
+  </tr>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/profile/lahaneshriram2)
+  <tr>
+    <td>HackerRank</td>
+    <td>
+      <a href="https://www.hackerrank.com/profile/lahaneshriram2">
+        <img src="https://img.shields.io/badge/HackerRank-Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+      </a>
+    </td>
+  </tr>
 
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Profile-0D1117?style=for-the-badge&logo=microsoft&logoColor=258FFA)](https://learn.microsoft.com/en-us/users/shriramlahane-5587/achievements?tab=tab-modules&source=docs)
+  <tr>
+    <td>Microsoft Learn</td>
+    <td>
+      <a href="https://learn.microsoft.com/en-us/users/shriramlahane-5587/achievements?tab=tab-modules&source=docs">
+        <img src="https://img.shields.io/badge/Microsoft_Learn-Profile-0D1117?style=for-the-badge&logo=microsoft&logoColor=258FFA" />
+      </a>
+    </td>
+  </tr>
 
+</table>
    </td>
 
    <!-- RIGHT GIF -->
