@@ -22,60 +22,40 @@
 
 <h3>𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲🤝:</h3>
 
-<table border="2" cellpadding="10" cellspacing="0">
-<tr>
-  <td align="center">
-    <a href="https://github.com/shriram7057">
-      <img src="https://skillicons.dev/icons?i=github" height="40" />
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://linkedin.com/in/Shriram%20Lahane">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://kaggle.com/shriramlahane">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://instagram.com/pvt.shree_01">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://leetcode.com/shriram-01">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://auth.geeksforgeeks.org/user/shriram01">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://www.hackerrank.com/profile/lahaneshriram2">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://discord.com/shriram_79991" target="_blank">
-      <img src="https://skillicons.dev/icons?i=discord" height="40" />
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://wa.me/7057461009" target="_blank">
-      <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" />
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://www.facebook.com/yourusername" target="_blank">
-      <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
-    </a>
-  </td>
-</tr>
-</table>
+<p>
+  <a href="https://github.com/shriram7057">
+    <img src="https://skillicons.dev/icons?i=github" height="41" />
+  </a>
+  <a href="https://linkedin.com/in/Shriram%20Lahane">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://kaggle.com/shriramlahane">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
+  </a>
+  <a href="https://instagram.com/pvt.shree_01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  </a>
+  <a href="https://leetcode.com/shriram-01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shriram01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="75"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/lahaneshriram2">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45"/>
+  </a>
+
+  <!-- Discord Link -->
+  <a href="https://discord.com/shriram_79991" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
+<a href="https://wa.me/7057461009" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" />
+</a>
+<a href="https://www.facebook.com/yourusername" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
+</a>
+</p> Keep my code as it is just add table format no need to add additional info 
 <div style="margin-bottom: 20px;">
   
 <h3>𝗚𝗲𝘁 𝗶𝗻 𝗧𝗼𝘂𝗰𝗵 𝗼𝗻 𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 🤝</h3>
