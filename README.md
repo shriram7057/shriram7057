@@ -55,7 +55,6 @@
 <a href="https://www.facebook.com/yourusername" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
 </a>
-</p> Keep my code as it is just add table format no need to add additional info 
 <div style="margin-bottom: 20px;">
   
 <h3>𝗚𝗲𝘁 𝗶𝗻 𝗧𝗼𝘂𝗰𝗵 𝗼𝗻 𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 🤝</h3>
