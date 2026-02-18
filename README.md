@@ -125,7 +125,6 @@
    <!-- RIGHT GIF -->
   <td valign="top" align="right" width="30%">
       <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/antnO%20desk.gif" width="210"/>
-          <img src="https://github.com/shriram7057/shriram7057/blob/main/GH%20Over%202.gif?raw=true" width="210"/>
     </td>
   </tr>
 </table>
