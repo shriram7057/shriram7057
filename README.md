@@ -297,6 +297,7 @@
     <a href="https://leetcode.com/rewind/2025/" target="_blank">
       <img src="https://github.com/shriram7057/shriram7057/blob/main/LCR%202025.png?raw=true" width="480"/>
     </a>
+    <!-- <img src = "https://github.com/shriram7057/shriram7057/blob/main/Lc%2050%20Days%20Badge%202026.gif?raw=true"width="150"/>  -->
   </div>
 </div>
 
