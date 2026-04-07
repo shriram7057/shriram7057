@@ -279,7 +279,7 @@
   <img src = "https://github.com/shriram7057/shriram7057/blob/main/DCC%20February%202026!%20Badge.gif?raw=true" width="150"/>
   <img src = "https://github.com/shriram7057/shriram7057/blob/main/LC%20DCC%20March%202026%20Badge.gif?raw=true" width="150"/>
  <img src = "https://github.com/shriram7057/shriram7057/blob/main/LC%202026%20Offer%20Expedition%20Badge.gif?raw=true" width="150"/>
-
+<img src = "https://github.com/shriram7057/shriram7057/blob/main/LC%20Guardian%20BAdge.gif?raw=true" width="150"/>
   </div>
 </div>
 
