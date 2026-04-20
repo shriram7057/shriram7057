@@ -405,21 +405,23 @@
     justify-content: center;
     flex-wrap: wrap;
   ">
+<div style="display:flex; align-items:center; gap:10px; flex-wrap:nowrap; overflow-x:auto;">
 
   <img src="GitHub-YOLO.png" height="120" width="120" style="border-radius:12px;" />
-    <img src="GitHub-Pull%20Shark.png" height="120" width="120" style="border-radius:12px;" />
-    <img src="GitHub-Quickdraw.png" height="120" width="120" style="border-radius:12px;" />
-    <img src="GitHub-pair-extraordinaire.png" height="120" width="120" style="border-radius:12px;" />
+  <img src="GitHub-Pull%20Shark.png" height="120" width="120" style="border-radius:12px;" />
+  <img src="GitHub-Quickdraw.png" height="120" width="120" style="border-radius:12px;" />
+  <img src="GitHub-pair-extraordinaire.png" height="120" width="120" style="border-radius:12px;" />
 
   <img src="https://github.com/shriram7057/shriram7057/blob/main/GitHub%20Org.gif?raw=true"
-         width="140"
-         style="border-radius:12px;" />
+       width="140"
+       style="border-radius:12px;" />
 
   <img src="https://github.com/shriram7057/shriram7057/blob/main/Developer%20Program%20Member.gif?raw=true"
-         width="170"
-         height="140"
-         style="border-radius:12px;" />
+       width="170"
+       height="140"
+       style="border-radius:12px;" />
 
+</div>
   </div>
 </div>
 
@@ -703,39 +705,35 @@
   <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20Coin.gif?raw=true" width="140"/>
 
   <a href="https://www.geeksforgeeks.org/certificate/28c1351974b0e94503ef2c3163d9fabc" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/C.png?raw=true" width="130"/>
+      <img src="https://skillicons.dev/icons?i=c" width="130"/>
     </a>
-
   <a href="https://github.com/shriram7057/shriram7057/blob/main/C++.png?raw=true" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/C++.png?raw=true" width="130"/>
+          <img src="https://skillicons.dev/icons?i=cpp" width="130"/>
     </a>
 
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/node%20js%20ani.gif?raw=true" width="110"/>
-
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/node%20js%20ani.gif?raw=true" width="120"/>
   <a href="https://media.geeksforgeeks.org/courses/certificates/b14bca951b43f3748828d9ac3cf950ed.pdf" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/Java.gif?raw=true" width="100"/>
+         <img src="https://skillicons.dev/icons?i=java" width="130"/>
     </a>
 
   <a href="https://www.geeksforgeeks.org/certificate/a26bacb92e4bb567cd6978aa274ca890" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/Python.gif?raw=true" width="100"/>
+      <img src="https://skillicons.dev/icons?i=python" width="130"/>
     </a>
 
   <a href="https://www.geeksforgeeks.org/certificate/feadd08e41568e595f8f1d2f9ecfa725" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/Js.gif?raw=true" width="100"/>
+      <img src="https://skillicons.dev/icons?i=js" width="130"/>
     </a>
 
   <a href="https://www.geeksforgeeks.org/certificate/5beca0cf355c49b7f6d991fb2d553c00" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/Django.png?raw=true" width="150"/>
-    </a>
-
-  <a href="https://www.geeksforgeeks.org/certificate/25078514cf8abdf43d495846de19264a" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/IOS%20Dev.gif?raw=true" width="150"/>
+            <img src="https://skillicons.dev/icons?i=django" width="130"/>
     </a>
 
   <a href="https://www.geeksforgeeks.org/certificate/187e810c657bc4af02d1357f41f4c575" target="_blank">
-      <img src="https://github.com/shriram7057/shriram7057/blob/main/Next%20JS.jpg?raw=true" width="180"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="130"/>
     </a>
-
+  <a href="https://www.geeksforgeeks.org/certificate/25078514cf8abdf43d495846de19264a" target="_blank">
+      <img src="https://github.com/shriram7057/shriram7057/blob/main/IOS%20Dev.gif?raw=true" width="150"/>
+    </a>
    <a href="https://www.geeksforgeeks.org/certificate/7e8a774a7122478c90750c77d0cf1e84" target="_blank">
       <img src="https://github.com/shriram7057/shriram7057/blob/main/Lyzr%20AI.png?raw=true" width="190"/>
     </a>
@@ -746,6 +744,6 @@
 
   </div>
 </div>
-
+<br>
 **Keep Learning | Keep Coding | Keep Building** ⚡🚀  
-
+</br>
