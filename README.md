@@ -744,6 +744,49 @@
 
   </div>
 </div>
+</details>
+<!-- Dark Theme Toggle Button -->
+<details>
+<summary
+  style="
+    cursor: pointer;
+    list-style: none;
+    display: inline-block;
+    padding: 16px 36px;
+    font-size: 20px;
+    font-weight: 800;
+    color: #00e5ff;
+    background: #0b0f14;
+    border-radius: 14px;
+    border: 1px solid #0f3d4f;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.35);
+    transition: all 0.3s ease;
+  "
+>
+🏆 <h2>𝓥𝓲𝓼𝓲𝓽 𝓜𝔂 CodeChef 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼</h2>
+</summary>
+
+<br>
+
+## 🏆 <strong>CodeChef Achievements</strong>
+
+<br>
+
+<!-- Competition Medals -->
+<div style="
+  border: 1px solid #e5e5e5; 
+  padding: 25px; 
+  border-radius: 14px; 
+  background: #ffffff;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08); 
+  margin-bottom: 40px;"> 
+
+  <div style="display: flex; gap: 20px; justify-content: center; margin-top:20px; flex-wrap: wrap;">
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/CodeChef%20Bronze%20Badge.png?raw=true" width="240"/>
+    <img src="https://github.com/shriram7057/shriram7057/blob/main/CodeChef%20Problem%20Solver%20-%20Bronze%20Badge.png?raw=true" width="240"/>
+    
+  </div>
+</div>
 <br>
 **Keep Learning | Keep Coding | Keep Building** ⚡🚀  
 </br>
