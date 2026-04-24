@@ -412,14 +412,6 @@
   <img src="GitHub-Quickdraw.png" height="120" width="120" style="border-radius:12px;" />
   <img src="GitHub-pair-extraordinaire.png" height="120" width="120" style="border-radius:12px;" />
 
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/GitHub%20Org.gif?raw=true"
-       width="140"
-       style="border-radius:12px;" />
-
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Developer%20Program%20Member.gif?raw=true"
-       width="170"
-       height="140"
-       style="border-radius:12px;" />
 
 </div>
   </div>
