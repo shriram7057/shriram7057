@@ -62,7 +62,7 @@
   </a>
 <div style="margin-bottom: 20px;">
   
-<h3>𝗚𝗲𝘁 𝗶𝗻 𝗧𝗼𝘂𝗰𝗵 𝗼𝗻 𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 🤝</h3>
+<h3>𝗚𝗲𝘁 𝗶𝗻 𝗧𝗼𝘂𝗰𝗵🤝</h3>
 
 <table border="2" cellpadding="10" cellspacing="0">
   <tr>
