@@ -131,4 +131,8 @@ Cᴏᴍᴘᴜᴛᴇʀ Eɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ꜰᴏᴄᴜ�
   <a href="https://learn.microsoft.com/en-us/users/shriramlahane-5587/achievements?tab=tab-modules" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft%20Learn%20Profile-000000?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000&color=111111" alt="Microsoft Learn Profile" height="25"/>
   </a>
+  <!-- HackerEarth -->
+<a href="https://www.hackerearth.com/@lahaneshriram2/" target="_blank">
+  <img src="https://img.shields.io/badge/HackerEarth%20Profile-0D1117?style=for-the-badge&logo=hackerearth&logoColor=2CFF88&labelColor=161B22&color=21262D" alt="HackerEarth Profile" height="25"/>
+</a>
 </div>
